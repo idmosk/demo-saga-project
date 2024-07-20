@@ -1,0 +1,25 @@
+POST http://localhost:8080/twoStepsOkSaga
+###
+POST http://localhost:8080/twoStepsOkNotSuspendSaga
+###
+POST http://localhost:8080/twoStepsOkRolledBackNotSuspendSaga
+###
+POST http://localhost:8080/threeStepsOkRolledBackSaga
+###
+POST http://localhost:8080/twoStepsNokRolledBackSaga
+###
+POST http://localhost:8080/twoStepsOkRolledBackSaga
+###
+POST http://localhost:8080/twoStepsOkRolledBackWithExceptionSaga
+###
+POST http://localhost:8080/twoStepsWithBackwardExceptionSaga
+###
+POST http://localhost:8080/twoStepsWithForwardExceptionSaga
+###
+POST http://localhost:8080/twoStepsOkOnlyForwardSaga
+###
+POST http://localhost:8080/twoStepsOkOnlyForwardSaga
+###
+
+
+
